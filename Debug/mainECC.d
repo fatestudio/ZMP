@@ -1,0 +1,1 @@
+mainECC.d: ../mainECC.c
